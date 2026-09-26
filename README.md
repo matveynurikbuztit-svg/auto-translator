@@ -54,7 +54,7 @@ auto_translator/
 
 ### 2. Клонирование / Переход в папку
 ```bash
-cd C:\Users\matve\.gemini\antigravity\scratch\auto_translator
+cd C:\Users\matve\Downloads/auto_translator
 ```
 
 ### 3. Установка зависимостей
